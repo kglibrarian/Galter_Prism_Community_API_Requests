@@ -5,6 +5,7 @@ output/
 config.py
 funding_output.csv
 re_shaped_data_examples.xlsx
+test.ipynb
 
 
 # Byte-compiled / optimized / DLL files
